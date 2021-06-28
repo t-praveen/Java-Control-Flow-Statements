@@ -1,3 +1,5 @@
+//PROGRAM TO PRINT THE ENTERED NUMBER IN WORD//
+
 package Recursion;
 import java.util.Scanner ;
 
