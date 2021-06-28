@@ -1,3 +1,5 @@
+//PROGRAM TO PRINT DAY OF THE WEEK USING SWITCH CASE//
+
 package Recursion;
 import java.util.Scanner ;
 
