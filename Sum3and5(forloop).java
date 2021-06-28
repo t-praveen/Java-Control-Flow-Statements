@@ -1,4 +1,6 @@
-package Recursion;
+//PROGRAM THE PRINT THE SUM OF THE NUMBERS DIVISIBLE BY 3 AND 5 WITHIN A GIVEN RANGE//
+
+Recursion;
 
 public class Sum3and5 {
 
